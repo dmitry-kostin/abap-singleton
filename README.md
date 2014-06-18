@@ -1,4 +1,3 @@
-abap-singleton
-==============
+#Abap singleton
 
-Abap singleton pattern
+Abap singleton pattern example
